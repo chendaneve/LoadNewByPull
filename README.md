@@ -3,4 +3,4 @@
 
 详情页面展示可以用UIScrollView、UITableView、UICollectionView、UIWebView实现，
 因为以上view都可以使用MJRefresh实现下拉和上拉动画，
-然后模仿了知乎日报的思路和效果，写出了这个
+然后模仿了知乎日报的思路和效果，写出了原来的详情滑出、新的详情划入的动画
