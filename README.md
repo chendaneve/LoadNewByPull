@@ -1,6 +1,6 @@
 # LoadNewByPull
 实现像知乎日报的下拉载入上一篇、上拉载入下一篇
 
-详情页面展示可以用UIScrollView、UITableView、UICollectionView、UIWebView实现；
+详情页面展示可以用UIScrollView、UITableView、UICollectionView、UIWebView实现，
 因为以上view都可以使用MJRefresh实现下拉和上拉动画，
-然后写我自己模仿了知乎日报写了这个动画实现上下拉加载
+然后模仿了知乎日报的思路和效果，写出了这个
